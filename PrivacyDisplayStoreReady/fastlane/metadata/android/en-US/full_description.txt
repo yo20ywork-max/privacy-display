@@ -1,0 +1,18 @@
+Privacy Display Shield is a local privacy overlay tool for Android. It helps reduce screen exposure in public places such as transit, offices, meetings, and cafes.
+
+Key features:
+- Full-screen privacy overlay: manually show a semi-transparent or near-black overlay.
+- Selected-app protection: choose apps to protect, and the overlay appears when a selected app is in the foreground.
+- Notification privacy: briefly show the overlay when selected apps post notifications, and optionally replace clearable notifications with a generic hidden-notification message.
+- Adjustable opacity: choose how dark the overlay should be.
+- Quick Settings tile: add the privacy tile to Android Quick Settings for fast toggling.
+- Image Privacy Converter Pro: a one-time purchase unlock that converts device-decodable images such as HEIC, PNG, JPG, WebP, GIF, BMP, and AVIF into regular image files with a privacy-style visual effect.
+
+Privacy design:
+- No internet permission.
+- No screenshots or screen recordings.
+- No image, notification content, usage history, or app list upload.
+- App selection, foreground-app checks, notification-source checks, and image processing are handled locally on your device.
+
+Note:
+Privacy Display Shield is a software overlay, not a hardware privacy display. It does not change the physical viewing angle of your screen. Some system permission screens, lock screens, secure screens, or manufacturer restrictions may prevent full coverage. Image Privacy Converter Pro applies a visual obfuscation effect to regular image files and cannot replace a physical privacy screen protector.

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Privacy Display 智慧防窺</string>
+    <string name="notification_listener_label">Privacy Display 通知防窺</string>
+    <string name="quick_tile_label">防窺</string>
+</resources>
